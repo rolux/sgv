@@ -4,4 +4,4 @@ StyleGAN Video (SGV) is a machine-learning-assisted, GPU-accelerated open source
 
 SGV supports full HD 1080p (upsampled from 1024p) video at a fixed aspect ratio of 1:1, popular in the machine learning community. While highly optimized for frontal human portrait shots, it can represent arbitrary sequences of moving images with stunning fidelity. Future versions of SGV may add support for sound, different aspect ratios and additional optimizations, specifically for cat videos, horse videos, car videos, and other categories of popular content.
 
-SGV, along with the SVG file format specification, will be released in January 2020.
+SGV, along with the SGV file format specification, will be released in January 2020.
